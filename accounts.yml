@@ -18,7 +18,7 @@ accounts:
     -(555)-678-123
     -(555)-612-345
 management:
- endpoint:
+ endpoints:
   web:
    exposure:
     include: "*"
